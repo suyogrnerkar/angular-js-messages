@@ -1,0 +1,13 @@
+<h1>Messages List Page</h1>
+
+<div>
+  <table class="table table-light">
+    <tr>
+      <th>Your messages</th>
+    </tr>
+    <tr ng-repeat="x in messages">
+      <td ng-click="details($index)">{{ x.title }}</td><br>
+    </tr>
+  </table>
+  <button class="btn btn-primary" ng-click="GoBack()" type="submit">Go Back</button>
+</div>

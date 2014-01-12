@@ -1,0 +1,27 @@
+.no-margin {
+  margin: 0px !important;
+}
+
+table {
+  width: 200;
+}
+
+th {
+  padding: 12px;
+}
+
+td {
+  padding: 5px 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table-reciever {
+  background: #aeaeae;
+}
+
+.nav-elem {
+  margin-right: 10px;
+}

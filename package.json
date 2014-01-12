@@ -1,0 +1,25 @@
+{
+  "name": "messages-app",
+  "version": "0.0.1",
+  "author": "",
+  "description": "Messages App with angular js.",
+  "dependencies": {
+    "angular-cookies": "^1.7.4",
+    "angular-route": "^1.7.4",
+    "underscore": "1.6.x"
+  },
+  "devDependencies": {
+    "angular": "latest",
+    "babelify": "^6.1.2",
+    "bootstrap3": "latest",
+    "grunt": "0.4.x",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-watch": "0.6.x",
+    "grunt-eslint": "^16.0.0",
+    "express": "latest",
+    "mongoose": "latest",
+    "body-parser": "latest",
+    "cors": "latest"
+  }
+}
